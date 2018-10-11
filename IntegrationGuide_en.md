@@ -13,7 +13,7 @@
 
 Hypestack works uniquely in chat and is driven by user-expressed intent from their actual conversations.  Work with us to grow your revenue in chat while providing the next level of excellent user experience.  User privacy is protected because conversations are processed on-device by our local SDK and users have full control over their expressed intent.
 
-This guide provides instructions for incorporating the Hypestack Android SDK into your app.  To request access to the Hype SDK (hype-sdk-1.0.x.jar), please email us at partner@hypestack.io.
+This guide provides instructions for incorporating the Hypestack Android SDK into your app.  
 
 ### Quick Start
 
