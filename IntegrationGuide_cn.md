@@ -33,7 +33,7 @@ public class MyActivity extends Activity {
 HypeMessage msg = Hype.monetize（Context（），to，text）;
 ```
 
-**第4步：装饰消息 （匹配意图将显示为链接）**
+**步骤4：装饰消息 （匹配意图将显示为链接）**
 ```
 Spannable span =.render Hype（getContext（），msg）;
 ...
