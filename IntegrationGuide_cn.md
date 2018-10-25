@@ -7,7 +7,7 @@
 Hypestack独特性的技术通过用户的实际对话去了解他们的意图。与我们合作您能在聊天窗口
 中增加财政收入的同时也提供更好的用户体验。您的用户隐私将会受到保护，因为我们的SDK是在本地设备上处理对话和让用户完全控制其表达的意图。
 
-本指南提供了 Hypestack Android SDK 集成应用说明。请发送电子邮件至 partner@hypestack.io 去领取 Hype SDK。
+本指南提供了 Hypestack Android SDK 集成应用说明。
 
 
 ### 快速集成指引
@@ -33,7 +33,7 @@ public class MyActivity extends Activity {
 HypeMessage msg = Hype.monetize（Context（），to，text）;
 ```
 
-**第4步：装饰消息 （匹配意图将显示为链接）**
+**步骤4：装饰消息 （匹配意图将显示为链接）**
 ```
 Spannable span =.render Hype（getContext（），msg）;
 ...
